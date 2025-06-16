@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Incoming PhD Student at North Carolina State University CSC, University of Michigan CS '25
+subtitle: Incoming PhD Student at North Carolina State University CSC <br> University of Michigan CS '25
 
 profile:
   align: right
